@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Muhammad Syafi Islam, you can call me Syafi</h1>
 <h3 align="center">Undergraduate Computer Science Student at Brawijaya University</h3>
 <img align="right" alt="Coding" height="250" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4722w0eu2ox126r5tjfxn98vvokr7v526rxssj41gc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
