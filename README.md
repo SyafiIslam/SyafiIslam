@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Syafi Islam, you can call me Syafi</h1>
 <h3 align="center">Undergraduate Computer Science Student at Brawijaya University</h3>
-<img align="right" alt="Coding" width="400" height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4722w0eu2ox126r5tjfxn98vvokr7v526rxssj41gc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4722w0eu2ox126r5tjfxn98vvokr7v526rxssj41gc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <img src="https://komarev.com/ghpvc/?username=syafiislam&label=Profile%20views&color=0e75b6&style=flat" alt="syafiislam" />
 
